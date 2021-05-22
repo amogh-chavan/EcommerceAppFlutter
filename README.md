@@ -105,7 +105,7 @@ Flutter, Firebase
 
 | 13 | 14|
 |------|-------|
-|<img src="slider.jpg" width="400">|<img src="verifyEmail.jpg" width="400">|
+|<img src="slider.jpg" width="400">|<img src="verifyEmail.png" width="400">|
 
 | 15 |
 |------|
